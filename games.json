@@ -1,0 +1,22 @@
+[
+    {
+        "name": "Persona 5",
+        "id": "380924869245796352",
+        "defaults": {
+            "state": "Exploring A Palace",
+            "details": "Unmasking the true self",
+            "largeImageKey": "p5logo",
+            "largeImageText": "I am thou. Thou art I."
+        }
+    },
+    {
+        "name": "MHGU",
+        "id": "486308918059073558",
+        "defaults": {
+            "state": "Loitering around",
+            "details": "",
+            "largeImageKey": "mhgu_logo",
+            "largeImageText": "MHGU"
+        }
+    }
+]
